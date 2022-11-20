@@ -8,4 +8,4 @@ For example, you might want to:
 <li>Predict the selling price of houses given information about them (such as number of rooms, size, number of bathrooms).
 <li>Predict the coordinates of a bounding box of an item in an image.
 <li>Predict the cost of medical insurance for an individual given their demographics (age, sex, gender, race).
-<li>In this notebook, we're going to set the foundations for how you can take a sample of inputs (this is your data), build a neural network to discover patterns in those inputs and then make a prediction (in the form of a number) based on those inputs.
+<li>In this notebook, we're going to set the foundations for how you can take a sample of inputs (this is your data), build a neural network to discover patterns in     <u>those inputs and then make a prediction (in the form of a number) based on those inputs.
